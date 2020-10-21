@@ -1,0 +1,2635 @@
+{
+  "competences": {
+    "FOCUSED": {
+      "description": "Identifies priorities and stays focused on them to achieve results and create value",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Baja priorización",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "falta desarrollar la capacidad para priorizar eficientemente sus objetivos y su cronograma diario."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Enfocado en tareas propias",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "da poca importancia a los objetivos de su área y de la empresa en general, preocupándose sólo por hacer su tarea rutinaria."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Falta colaboración",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es poco colaborador y le molesta que le pidan trabajar tiempo extra aún en casos de emergencia."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Bajo desempeño",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "su nivel de desempeño es más bajo que el del promedio, y no se preocupa por mejorarlo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Indiferente",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es indiferente frente a los logros de su equipo y de su organización."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Carece de sentido de urgencia",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "presenta dificultad para conseguir resultados en poco tiempo, sin diferenciar actividades prioritarias de actividades secundarias, enfocando todos los recursos y tiempo en actividades improductivas."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Utiliza indicadores",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "utiliza indicadores de gestión para evaluar y comparar los resultados obtenidos."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Prioriza eficientemente",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "prioriza eficientemente sus objetivos y su cronograma diario."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Cree en la planificación",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "cree en la planificación para aprovechar al máximo el tiempo y otros recursos limitados."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Comprueba calidad del trabajo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "comprueba su propio trabajo revisando meticulosamente la exactitud de su trabajo y de la información utilizada."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Constante",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "realiza los intentos que sean necesarios para cumplir con el objetivo, ante la presencia de obstáculos."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Posee sentido de urgencia",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se le facilita conseguir resultados en poco tiempo, diferencia actividades prioritarias de actividades secundarias, enfocando todos los recursos y tiempo en actividades productivas."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Establece objetivos retadores",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "establece prioridades y objetivos retadores y alcanzables para sí y para otros (50 % de posibilidades de alcanzarlos) de gran impacto y valor agregado para la organización."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Toma Decisiones",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "realiza análisis de la relación costo-beneficio para fijar objetivos y tomar decisiones."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Garantiza cumplimiento y calidad",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "controla el orden y calidad del trabajo de los demás, asegurándose de que se cumplen los procesos y procedimientos establecidos en la organización. Realiza seguimiento detallado de las actividades propias o de los demás."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Alcanza objetivos retadores",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "establece para sí mismo objetivos de alto desempeño, superiores al promedio y los alcanza con éxito.                                "
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Se fija objetivos altos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se fija objetivos altos y los cumple casi siempre."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "FASTLEARNER": {
+      "description": "Exercise the ability to unlearn and relearn. Apply the new acquired knowledge in an agile way with a curious mind and entrepreneurial spirit.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Resalta desventajas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "cuestiona y resalta siempre las desventajas cuando algún par o superior propone un modo nuevo de trabajo cambiando conceptos o diferentes formas de lectura de las cosas."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Inflexible al cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es inflexible cuando se le propone algún cambio respecto a sus habituales herramientas de trabajo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Desinterés por la mejora continua",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no se preocupa por incorporar nuevos modos de desarrollar y mejorar su trabajo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Resistencia al cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "obstaculiza su propia tarea y la del entorno manteniendo antiguos conceptos y procedimientos."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Visión al corto plazo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no se preocupa por incorporar nuevos modos de desarrollar y mejorar su trabajo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Incapacidad para des-aprender",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "presenta dificultades para desaprender; es decir, encontrar o descubrir que sí existen otros caminos que permiten llegar al mismo lugar, dejando las limitaciones que comúnmente tenemos, por otras que no hemos experimentado."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No aprende de sus errores",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le cuesta admitir sus propios errores sintiendo miedo a demostrar sus propias debilidades sin tomar acción para mejorarlas."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Identifica oportunidades",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "profundiza en el origen de los problemas, yendo más allá de lo evidente e identificando potenciales oportunidades."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Autodidacta",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "aborda personalmente las investigaciones sobre problemáticas o situaciones a través de la información de personas que conocen los temas."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Investiga",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "pregunta a las personas o fuentes que tienen información que requiere."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Preocupado por aprender",
+                  "selected": false
+                },
+                {
+                  "text": "Se autocapacita",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se interesa y preocupa por capacitarse en aquello que se relaciona directamente con su área de trabajo."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Fomenta el aprendizaje",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "alienta a su entorno a actualizarse constantemente."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Estrategias de información",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "usa sistemas de información propios. Establece e implementa estrategias de investigación mediante la generación de redes y procesos que permiten obtener información de distintos tipos, de forma continua."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Investiga proactivamente",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "investiga sobre la propia empresa y la competencia, utilizando fuentes diversas relacionadas con las problemáticas a resolver. "
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Resuelve problemáticas complejas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "realiza planes de acción y mejoramiento para obtener la máxima y mejor información posible con relación a las problemáticas a resolver. "
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Busca diferentes perspectivas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "recurre a personas que no están directamente relacionadas con las situaciones o problemáticas para conocer sus perspectivas, experiencia y opinión."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es referente del cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es referente a la hora de incorporar cambios en procedimientos, herramientas o conceptos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Capacidad para des-aprender",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se le facilita desaprender; es decir, encuentra o descubre que sí existen otros caminos que permiten llegar al mismo lugar, dejando las limitaciones que comúnmente tiene, por otras que no ha experimentado."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "FLEXIBLE": {
+      "description": "Is comfortable with some level of ambiguity and effectively adapts thoughts and behavior to different scenarios, overcoming failures and adverse situations.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Inflexible a ideas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le cuesta aceptar las diferencias y los distintos puntos de vista, haciendo que las opiniones de los demás no sean tan válidas como las propias."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Resistencia al cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "cuenta con poca disposición a cambiar comportamientos o formas de pensar para alcanzar nuevos objetivos."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Renuencia a la transición",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene dificultad para comprender los cambios de contexto."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Se paraliza ante la incertidumbre",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se paraliza cuando tiene que transmitir nuevos objetivos o estrategias, sin haber tenido tiempo de comprender correctamente la situación."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Falta de disposición al cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "demuestra falta de disposición para adaptarse a situaciones o ámbitos cambiantes."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Dificultad para recuperarse de los fracasos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "dificultad para recuperarse de los fracasos."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Apertura al cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "realiza cambios importantes o modificaciones en su propia organización o la del cliente para responder a las necesidades de la situación."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Abierto a modificar decisiones",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "cambia de decisión para enfrentar la situación."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Moldeable en su comportamiento",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "modifica su comportamiento para adaptarse a la situación o a las personas en planes o proyectos."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es flexible",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es flexible para cumplir con condiciones laborales cambiantes. Se ajusta adecuadamente a situaciones nuevas en el trabajo."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Adapta las normas al contexto",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "aplica las normas con flexibilidad, dependiendo de cada situación aplica las normas o procedimientos y los adapta para alcanzar los objetivos globales de la organización."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Dirige proyectos de cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "dirige proyectos de cambio organizacional de gran impacto para el futuro de esta."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es promotor del cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "actúa como promotor o líder del cambio dentro de su ámbito organizacional."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Motiva a otros hacia el cambio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "motiva a otros hacia el cambio que propone la organización."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Disfruta las transiciones",
+                  "selected": false
+                },
+                {
+                  "text": "Relacionamiento a todo nivel",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "disfruta del cambio y de las situaciones impredecibles. Posee buena capacidad de relación con personas de diferentes tipos y niveles jerárquicos con rapidez y facilidad."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Modifica objetivos según contexto",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "modifica los objetivos de la organización rápidamente según los cambios extemos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es resiliente",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "cuenta con la capacidad de anticiparse, prepararse, responder y adaptarse al cambio exponencial y a las interrupciones repentinas para llegar al cumplimiento de objetivos."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "INTEGRITY": {
+      "description": "Acts honestly and ethically, and is coherent between what he/she says and does, aligning with Globant’s core values.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Incongruente en su discurso",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se maneja con un doble discurso: promueve una cosa y actúa en otra dirección."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Oculta sus intenciones",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no suele expresar sus ideas o intenciones abiertamente."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Disfraza sus errores",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le cuesta admitir sus errores, trata de disfrazarlos para evitar las consecuencias."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Prioridad a sus necesidades",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "prioriza los beneficios a obtener, por sobre los valores éticos."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Falta de transparencia",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "acomoda su accionar a la situación, sin importar si debe actuar en forma inequitativa o deshonesta."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No cumple con sus compromisos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no es consciente de la importancia que existe en cumplir con algo acordado anteriormente."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Acepta planteos éticos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "acepta planteos éticos de su equipo y trata de incorporar sus sugerencias para la mejora del ambiente laboral."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Sigue reglas éticas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "sigue las reglas que se ajustan a su criterio ético, y no obedece aquellas que no lo hacen."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es respetuoso y equitativo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "establece relaciones laborales basadas en el respeto y la equidad, tanto para la distribución del trabajo, como para la evaluación y retribución."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Cumple con lo prometido",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es honesto en los vínculos con los demás: expresa lo que siente, trata de no generar falsas expectativas, y cumple con lo que promete."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Reconoce sus errores",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "reconoce sus errores o sentimientos negativos."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es congruente",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "sus acciones son congruentes con sus dichos."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es un referente en integridad",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es un referente en materia de integridad, tanto para su propia gente como para sus pares o competidores."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Toma acción frente a sus errores",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "cuando se equivoca admite sus errores y actúa en consecuencia. Expresa clara y abiertamente lo que piensa y siente, de manera positiva, tratando de acercar posiciones y de no generar rechazo, pero siendo fiel a sus ideas y principios."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Induce a otros a ser éticos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "induce a otros a actuar de acuerdo con valores y creencias."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "INNOVATIVE": {
+      "description": "Develops and provide unique perspectives and original solutions, challenging the status quo.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Se mueve en ámbitos conocidos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "prefiere moverse de acuerdo con pautas establecidas y en ámbitos conocidos, sin que se le exija aporte personal, o la generación de cambios."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Foco en el corto plazo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene dificultades para prever potenciales problemas o detectar oportunidades a mediano o largo plazo, y para instrumentar adecuadas acciones al respecto."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No demuestra pensamiento creativo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "suele quedarse con modelos preestablecidos, sin proponer nuevas alternativas para enriquecer los procesos existentes."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No es receptivo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene baja capacidad para recibir, escuchar y aceptar con facilidad lo que otro tiene para expresar."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No aporta ideas originales",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se le dificulta concebir ideas que no han sido creadas con anterioridad por alguien. No se esfuerzan por llegar a un proceso creativo mayor."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No toma riesgos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le cuesta tomar riesgos calculados, prefiriendo permanecer en su zona de confort."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Ejecuta sus ideas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se hace cargo desde el principio hasta en final en la ejecución de la nueva idea."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Participa en iniciativas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se involucra personalmente en la ejecución de nuevas ideas en los procesos, áreas y organización."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es creativo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "utiliza la creatividad para proponer cambios e iniciativas en los procesos, áreas o en la organización."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Receptivo a nuevas ideas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se muestra receptivo y amigo de nuevas y diferentes ideas y opciones, así estas no sean originales."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Contribuye a la creación",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "esta abierto a nuevas y diferentes perspectivas. Contribuye a la generación de nuevas ideas y opciones."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Lidera equipos de innovación",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "dirige un grupo significativo de personas dedicadas a la investigación y desarrollo de productos o servicios novedosos para la organización o en el mercado de esta."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Investigación para la innovación",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "realiza investigación aplicada al mejoramiento de productos o servicios de la organización."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Involucra y motiva a otros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "involucra y motiva a otros para la materialización de ideas innovadoras y generadoras de valor agregado para la organización."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Innovaciones significativas y únicas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "dirige la puesta en marcha de grandes ideas y retos para la organización que conducirán a esta a innovaciones significativas."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Genera valor a la organización",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "propone grandes ideas y opciones que contribuyen significativamente a la generación de valor para la organización."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "INCLUSIVE": {
+      "description": "Understands and values diversity in any given environment. Values individual and group differences and takes the opportunity to learn, grow and co-create to achieve innovative and smarter decisions.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Falta de empatía",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le cuesta reconocer los puntos de vista y emociones de los demás."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Poco interés en el otro",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se le dificulta prestar atención a los demás, es desconsiderado y no está atento al comportamiento, sentimientos y necesidades de otras personas."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Poco receptivo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no visualiza el compartir saberes como posibilidad de crecimiento profesional y personal."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Le cuesta manejar la diversidad ",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le cuesta manejar la diversidad del equipo, viendo en ello un obstáculo para la integración y el incremento de la eficiencia."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Dificultad para generar vínculos sin sesgos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "dificultad para generar vínculos sin sesgos a favor o en contra de algo sin que existan argumentos suficientes para sustentar esta posición."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Respetuoso",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "trabaja con la misma energía, respeto y compromiso con diferentes personas y equipos."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es empático",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "genera vínculos e interacciones sin sesgos ni favoritismos. Trata a los demás con empatía."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Fomenta el diálogo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "fomenta y aprovecha espacios de diálogo para compartir opiniones y nutrirse de nuevas formas de ser y pensar."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es sensible a su entorno",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es sensible a su entorno y trata a las personas con las que interactúa para estas se sientan cómodas y a gusto."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Entiende integralmente al otro",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "entiende los razonamientos, comportamientos, sentimientos y emociones de las diferentes personas."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es justo en su juicio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene una visión equilibrada de los puntos fuertes y débiles de los demás, y actúa en consecuencia con ellos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Entiende y valora la singularidad ",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "entiende y valora la singularidad de un otro diverso, trata de manera justa a todas las personas; y aprovecha la diversidad de pensamientos para enriquecer la ideación y tomar decisiones más inteligentes."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Promulga experiencias en conjunto",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "reconoce, lleva a cabo y promulga la idea de buscar en la experiencia de los otros, elementos enriquecedores para su propia gestión (presente y futura)."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Aprovecha al máximo la diversidad",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "capta, respeta y toma estratégicamente para sí los saberes y aportes realizados por los otros, a fin de agregar valor a su desempeño y crecimiento personal y profesional."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Ve la diversidad como un valor",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "aprovecha la diversidad de los equipos para lograr un valor añadido superior en el negocio."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Genera vínculos sin sesgos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "genera vínculos sin sesgos, siendo imparcial en sus juicios de valor, abierto a diferentes tipos de personas, creencias y maneras de hacer las cosas."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "COMMITED": {
+      "description": "Honors commitments with passion and professionalism; adopting the best version of oneself and contributing with genuine interest to continuous improvement.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Sólo se preocupa por su tarea",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "da poca importancia a los objetivos de su área y de la empresa en general, preocupándose sólo por hacer su tarea rutinaria."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Indiferente a los objetivos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es indiferente al cumplimiento de los objetivos en su puesto."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Bajo nivel de compromiso",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no cumple con los objetivos establecidos para su puesto. Tiene un bajo nivel de compromiso con la organización."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Desinterés por mejorar",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "su nivel de desempeño es más bajo que el del promedio, y no se preocupa por mejorarlo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Decisiones basadas en prejuicios",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "toma decisiones basado en información incompleta, o en prejuicios, por lo que puede ser injusto o ineficiente."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Indiferente al logro del equipo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es indiferente frente a los logros de su equipo y de su organización. La exigencia sostenida, demandada por proyectos, trabajos o situaciones determinadas, impacta negativamente sobre su rendimiento y calidad de trabajo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Dificultad para cumplir tiempos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene dificultades para cumplir con objetivos de gestión exigentes o para responder a los tiempos, fuera de su rutina."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Estándares bajos de desempeño",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se guía por estándares de desempeño de baja exigencia. Le cuesta mantener su constancia en la persecución de objetivos que le demanden alto esfuerzo."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Concentrado en objetivos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "procurara mantenerse concentrado en lograr sus objetivos haciendo su trabajo de manera precisa, detallada y con entusiasmo."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Alto compromiso",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "establece sus propios niveles de excelencia. Posee alto compromiso con su trabajo y con su carrera."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Propositivo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "realiza propuestas que mejoran los resultados en tiempo y forma de las tareas cotidianas."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Busca mejorar los resultados",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se preocupa por mejorar el rendimiento y conseguir resultados concretos y de mayor eficiencia."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Adquiere nuevo conocimiento",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "estudia y se capacita a fin de mejorar su desempeño, y motiva a su gente para que actúe en el mismo sentido."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es constante",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "realiza los intentos que sean necesarios para cumplir con el objetivo, ante la presencia de obstáculos."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Comprometido",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene un alto nivel de compromiso con el cumplimiento de los objetivos organizacionales; se ajusta con facilidad a las directivas de la empresa, las apoya, las pone en marcha y da el ejemplo a su gente con su conducta."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Se esfuerza por superar metas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se traza objetivos superiores a los esperados y los cumple. Se esfuerza para que sus resultados superen los esperados para su puesto."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Asume riesgos calculados",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "asume riesgos calculados. Compromete importantes recursos y tiempo para conseguir mejorar los resultados de la organización, a través de la introducción de nuevos productos, servicios o líneas de negocio."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Promueve nuevas iniciativas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "promueve en sus colaboradores el asumir riesgos calculados y a intentar hacer cosas nuevas."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Optimiza procesos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "efectúa modificaciones en los procesos o en sus métodos de trabajo para conseguir mejoras en el rendimiento."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Establece y alcanza objetivos altos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se establece objetivos superiores a los dados por la organización de manera realista y ambiciosa, y los alcanza."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Supera las expectativas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se excede en el cumplimiento de los objetivos y supera ampliamente las expectativas laborales."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Creativo para alcanzar los objetivos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "supera ampliamente las dificultades. Es persistente y prueba diferentes métodos para hacer las cosas hasta alcanzar los objetivos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Desarrolla estrategias",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "invierte tiempo extra para desarrollar propuestas e iniciativas propias que aportan de manera importante al logro de los objetivos organizacionales. Se adelanta a posibles inconvenientes o problemas y desarrolla estrategias para enfrentarlos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Sobrepasa las metas",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene siempre presente los resultados que persigue, y alcanza todas las metas que se propone."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "CLEARTHINKER": {
+      "description": "Takes a step back to see the bigger picture. Expresses ideas in a straightforward and simple way being able to adapt to different audiences.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Poca alineación en los objetivos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene escasa claridad en las metas y objetivos del área y de su puesto. No planifica sus actividades; va realizando las tareas a medida que se le van presentando."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Responde en forma impulsiva",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "responde en forma impulsiva, o con reacciones descontroladas, defendiéndose y en momentos inoportunos. "
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No verifica los mensajes emitidos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no verifica si sus mensajes fueron entendidos, generando falsas interpretaciones."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Se comunica sin verificar el contexto",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se expresa siempre de igual manera sin adaptar su lenguaje a las características particulares de su interlocutor o de su audiencia."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Desorganizado",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le cuesta manejar adecuadamente el tiempo, es poco metódico y desorganizado."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Dificultad para medir objetivos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "posee dificultades para definir objetivos mensurables y realistas."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No planifica sus actividades",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no suele planear acciones, ni definir tiempos, ni recursos para lograr los objetivos."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Falta de control en actividades",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "no utiliza herramientas de control para controlar el progreso de las actividades."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Falta de pensamiento analítico",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se le dificulta analizar situaciones desde distintas perspectivas siendo poco razonable y reflexivo frente a situaciones rutinarias y complejas."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es objetivo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "sabe diferenciar los datos de las interpretaciones subjetivas."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Comunicación abierta",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "comunica sus ideas y se expresa de forma clara y precisa, así como escucha atentamente a los demás, esforzándose por comprender el significado de la información que recibe."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Construye planes de acción",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es capaz de construir un plan de acción concreto y realizable."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Observa y escucha al otro",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "observa y escucha con atención lo que dicen los demás. Capta las reacciones de la gente producto de sus emociones o percepciones de las situaciones."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Verifica el entendimiento de su mensaje",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "comunica sus ideas en forma clara, eficiente, y fluida logrando que su audiencia entienda su mensaje, e impactándolos en el sentido que desea."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Planifica",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "planifica, coordina y destina personal y otros recursos para trabajar con eficiencia y lograr objetivos de largo y corto plazo."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es metódico y organizado",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "hace que las situaciones o ideas sean claras, simples y comprensibles. Es metódico, sistemático y organizado, y actúa en consecuencia."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Integra ideas y datos clave",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "integra ideas, datos clave y observaciones, presentándolos de forma clara y útil. Documenta lo acordado sobre metas y objetivos y distribuye la información entre todos los implicados en el proyecto."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Detecta problemas y oportunidades ",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "orienta las actividades de día a día hacia el largo plazo, identifica asuntos importantes en el largo plazo, detecta problemas y oportunidades."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es influyente y guía para otros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "predice la respuesta de los demás y se prepara ante la reacción de los demás, siendo capaz de influir, desarrollar, ayudar o incluso guiar a las personas."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Actua considerando diferentes escenarios",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "antes de lanzarse a la acción, analiza la situación desde diferentes puntos de vista y considera múltiples variables y los posibles resultados."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Se comunica verificando el contexto",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "capacidad de hacer una pausa, analizar las situaciones desde diferentes perspectivas; y expresar las ideas de manera simple y directa a diferentes audiencias."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Posee una amplia visión",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "posee una amplia visión y capacidad de analizar el contexto, que utiliza para planificar y diseñar la misión y objetivos de la organización con resultados exitosos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Planifica y dirige proyectos de gran impacto",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "planifica y dirige proyectos de gran impacto para el futuro de la organización. Responde por la asignación de recursos, presupuestos, personal y fechas de terminación a satisfacción."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Dirige proyectos en simultáneo exitosamente",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "crea nuevos modelos o teorías para explicar una situación o problema complejo y concilia datos discrepantes. Dirige varios proyectos simultáneamente sin perder el control."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Se anticipa a situaciones problema",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "identifica múltiples problemas y sus posibles relaciones, así como sus factores causales comunes y los resuelve."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es visionario y estratégico",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "evalúa y sitúa las actividades de corto plazo en el contexto de las estrategias de negocio a largo plazo; considera cómo pueden encajar las metas a corto plazo con los objetivos a largo plazo."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "COLLABORATIVE": {
+      "description": "Works well with others; with a ‘win-win’ mindset. Communicates openly with others, actively listens and acknowledges the impact generated by and on others.",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Presta escasa atención a otros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "presta escasa atención a las necesidades de sus compañeros y se muestra mal predispuesto a brindar ayuda o sugerencias."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Su actitud genera desconfianza",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "su actitud genera desconfianza. Sus compañeros no lo consideran como un referente al que pueden recurrir informalmente en busca de ayuda."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Incoherencia entre su discurso y su actuar",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "dice valorar, reconocer y respetar el trabajo y esfuerzo de los demás, pero sus compañeros no lo perciben de esta manera. Evidencia incoherencia entre su discurso y su actuar."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Le cuesta dar y pedir ayuda",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene dificultad para generar sistemas de apoyo informales con sus compañeros."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Le cuesta compartir con otros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se aísla y le cuesta compartir experiencias, conocimientos, logros y fracasos propios."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Le cuesta compartir información",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "demuestra escaso interés en establecer vínculos basados en el conocimiento. No comparte su experiencia y se cierra al aporte de los otros, lo cual dificulta su trabajo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No contribuye con el trabajo de otros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "muestra poca inclinación a contribuir con otros si esto no hace parte de sus responsabilidades."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "No es conciliador",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se le dificulta resolver conflictos ya que suele mantener su posición sin dar apertura al entendimiento de las opiniones de otros, lo cual no le permite negociar o mostrarse empático hacia los asuntos de los demás."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Reconoce el trabajo de otros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "estimula a los demás. Reconoce públicamente el mérito de los miembros del grupo que trabajan bien. "
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Anima y motiva a los demás",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "anima y motiva a los demás, haciéndoles sentir importantes como miembros del grupo. "
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Promueve participación del equipo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "impulsa la participación en el grupo y el aporte de opiniones para la toma de decisiones."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Actitud abierta para aprender de otros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "solicita la opinión del grupo. Tiene una actitud abierta a aprender de los demás (incluyendo colaboradores y pares). "
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Respeta y valora las opiniones",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "en su relación con los miembros del equipo respeta sus opiniones y valora los diferentes aportes y las contribuciones de los mismos. "
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Se compromete con objetivos grupales",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "demuestra coherencia y genera confianza en su equipo de trabajo. Se compromete con los objetivos grupales."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Dispuesto a ceder para llegar a un acuerdo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "habla de forma positiva de los miembros del grupo. Está dispuesto a transigir para llegar a un acuerdo o para ayudar a otras personas."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Es conciliador",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "busca resolver conflictos manteniendo una posición de apertura al entendimiento de las opiniones de otros, lo cual le permite negociar o mostrarse empático hacia los asuntos de los demás."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Promueve enfrentar y resuelver conflictos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "promueve que el equipo enfrente y resuelva conflictos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Defiende la reputación del grupo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "defiende la identidad y buena reputación del grupo frente a terceros."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Crea espíritu de equipo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "crea espíritu de equipo. Actúa para desarrollar un clima de trabajo en equipo y cooperación."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es un referente entre sus pares",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es considerado un referente entre sus pares. Es reconocido y se recurre a él en la comunidad profesional, informalmente o en eventos profesionales."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Usa el feedback para enriquecer al otro",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "constantemente da feedback informal con el fin de enriquecer y enriquecerse en los resultados."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Establece vínculos de respeto y confianza",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "establece fuertes vínculos con los compañeros basados en el respeto mutuo y la confianza."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "LEADERSHIP": {
+      "description": "Pending ...",
+      "levels": [
+        {
+          "name": "Need to work ont his",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Busca ser identificado como autor de los logros",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene actitudes competitivas y egoístas frente a los miembros de su equipo de trabajo; trata de ser identificado como el hacedor de todos los logros y resultados."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Teme que otros lo superen",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "prefiere trabajar con personas que se mantengan en un nivel de baja motivación para la capacitación y el desarrollo, por temor a verse superado."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Guarda la información clave para si",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "impide la participación de los miembros de su equipo, en las definiciones respecto de la gestión y los negocios de la compañía. Guarda la información clave para si."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Genera baja motivación",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "le despreocupa el efecto de su ejemplo en sus colaboradores, aún al costo de generar baja motivación, o falta de compromiso."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Desinterés por el desarrollo de su equipo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "demuestra escaso interés por el desarrollo de su equipo."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Ignora fortalezas y debilidades del equipo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "ignora las áreas de interés de su gente así como sus fortalezas y debilidades."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "El grupo no lo percibe como líder",
+                  "selected": false
+                },
+                {
+                  "text": "No da feedback",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "el grupo no lo percibe como líder. Le cuesta brindar feedback a sus colaboradores."
+              ]
+            },
+            {
+              "level": 0,
+              "tags": [
+                {
+                  "text": "Lídera a través del micromanagement",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "delega trabajos ejerciendo una supervisión muy cercana sin ofrecer retroalimentación instructiva hacia sus colaboradores."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Consigue que otros participen de sus objetivos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "entusiasma a los demás con sus propuestas, consigue que los demás participen de sus objetivos, responsabilidades, políticas y criterios."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Dispone recursos logrando un buen desempeño",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se asegura de que el grupo disponga de los recursos e información para tener un buen desempeño."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Defiende la reputación del grupo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se preocupa por el grupo y defiende la reputación de este frente a la Organización."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Busca consolidar el equipo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "impulsa y dirige procesos de interacción entre los miembros del grupo con el objeto de formar un equipo, estableciendo los resultados a alcanzar y retroalimentándolos."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Estimula la efectividad del grupo",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "estimula la efectividad del grupo mediante diferentes acciones (formación, asignación de responsabilidades, etc)."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Evalúa el impacto de sus argumentos",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "tiene en cuenta los intereses de sus interlocutores, evalúa con antelación el impacto de sus argumentos y se prepara para manejar las situaciones poniéndose en su lugar."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Fija objetivos, da seguimiento y feedback ",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "fija objetivos, los transmite y realiza un adecuado seguimiento, brindando feedback a los integrantes."
+              ]
+            },
+            {
+              "level": 1,
+              "tags": [
+                {
+                  "text": "Explica el por qué de las decisiones",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "se asegura de que el grupo disponga de la información necesaria para realizar su trabajo y expone las razones en las que se basan las decisiones tomadas."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "You Rock",
+          "description": "",
+          "weight": 1,
+          "tagsCollection": [
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Comunica visión y orienta la acción",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "comunica una visión de futuro con convencimiento. Orienta la acción de sus grupos en las direcciones necesarias para el logro de los objetivos."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es un líder con carisma",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "es un líder con carisma, genera en el grupo liderado una atmósfera de entusiasmo y compromiso profundo con la Misión de la Organización."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Se asegura que las metas se logren",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "revisa constantemente el desempeño de sus colaboradores y se asegura que las metas del grupo se logren."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es ejemplo y modelo inspirador",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "actúa convirtiéndose en el ejemplo y modelo inspirador de los demás."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Es un líder que confía y delega",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "genera oportunidades de participación para los miembros de su equipo, en las definiciones respecto de la gestión y los negocios de la compañía. Alienta a los miembros de la organización en general, a tener actitudes de compromiso, fidelidad y participación en los temas vitales de la organización."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Desarrolla a su gente",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "desarrolla a su gente para futuras responsabilidades de trabajo manteniéndolos alineados a las necesidades del negocio."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Da coaching y feedback ",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "fija objetivos, los transmite claramente, realiza su seguimiento y da coaching y feedback sobre el avance, integrando las opiniones de los diversos integrantes de cada grupo."
+              ]
+            },
+            {
+              "level": 2,
+              "tags": [
+                {
+                  "text": "Hace un plan de desarrollo alineado al negocio",
+                  "selected": false
+                }
+              ],
+              "comments": [
+                "prepara un plan de desarrollo con el colaborador a partir de explorar sus áreas de interés, para desarrollar tanto sus habilidades actuales como para acompañarlo en su crecimiento futuro."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "initialParagraph": [
+    "%user%",
+    "El candidato",
+    "Vemos que %user%",
+    "Se puede evidenciar que",
+    "A través de la entrevista el candidato refleja que",
+    "Podemos observar que",
+    "Se muestra durante la entrevista que",
+    "De la entrevista se infiere que"
+  ],
+  "connectors": [
+    "Además",
+    "Por otro lado",
+    "También encontramos",
+    "Adicionalmente",
+    "Asimismo",
+    "De la misma manera",
+    "Según vemos"
+  ]
+}

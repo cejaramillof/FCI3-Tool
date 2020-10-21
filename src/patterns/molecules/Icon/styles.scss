@@ -1,0 +1,46 @@
+@import "./../../../globalStyles/variables";
+
+.icon-competence {
+
+    &.icon-badge {
+
+        &-s {
+            border-radius: 14px;
+            padding: 4px;
+
+            img {
+                height: 14px;
+            }
+        }
+
+        &-m {
+            border-radius: 24px;
+            padding: 6px;
+
+            img {
+                height: 24px;
+            }
+        }
+
+        &-l {
+            border-radius: 34px;
+            padding: 8px;
+
+            img {
+                height: 34px;
+            }
+        }
+    }
+
+    &__need-work-on-this{
+        background: $needs-work-on-this;
+    }
+
+    &__cool{
+        background: $cool;
+    }
+
+    &__you-rock{
+        background: $you-rock;
+    }
+}

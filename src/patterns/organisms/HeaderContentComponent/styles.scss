@@ -1,0 +1,51 @@
+.header-content-component {
+    .header {
+        &--title {
+            position: relative;
+            padding-right: 20px;
+        }
+        
+        &--title::after {
+            content: '';
+            position: absolute;
+            right:0;
+            top:calc(50% - 20px);
+            height: 40px;
+            border-right: 1px solid rgb(206, 206, 206);
+            
+        }
+
+        &-wrapper-title {
+            border-bottom: 1px solid rgb(206, 206, 206);
+            margin-bottom: 5px;
+            padding-bottom: 10px;
+        }
+    }
+
+    .jumbotron {
+        text-shadow: 0.03em 1px 0px #FFF;
+        padding: 1.5rem 2rem;
+        margin-bottom: 1rem;
+
+        &-username {
+            color: #26b94e;
+            font-weight: 400;
+        }
+    
+        .lead {
+            svg {
+                width: 10px;
+                color: gray;
+            }
+        }
+    
+        hr{
+            margin: 5px 0 10px;
+        }
+    
+        small.muted {
+            font-size: 92%;;
+        }
+    }
+
+}

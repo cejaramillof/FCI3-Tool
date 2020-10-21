@@ -1,0 +1,10 @@
+import * as USER_ACTIONS from './actions/UserActions/UserActions.types'
+export { USER_ACTIONS }
+
+export const UPDATE_LIST = 'UPDATE_LIST';
+export const UPDATE_COMPETENCE = 'UPDATE_COMPETENCE';
+export const UPDATE_TAG_COLLECTION_COMPETENCE = 'UPDATE_TAG_COLLECTION_COMPETENCE';
+export const NEXT_COMPETENCE = 'NEXT_COMPETENCE';
+export const UPDATE_USER = 'UPDATE_USER';
+export const UPDATE_SUMMARY = 'UPDATE_SUMMARY';
+export const UPDATE_LANGUAGE = 'UPDATE_LANGUAGE';

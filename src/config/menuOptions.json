@@ -1,0 +1,43 @@
+{
+    "COMPETENCES" :
+    [
+        {
+            "id":"EDIT-PROFILE",
+            "link":"EDIT-PROFILE",
+            "url":"/profile/$(user)",
+            "selected": false
+        },
+        {
+            "id":"FINISH-REPORT",
+            "link":"FINISH-REPORT",
+            "url":"/report/$(user)",
+            "selected": false
+        },
+        {
+            "id":"EXPORT-REPORT",
+            "link":"EXPORT-REPORT",
+            "url":"/report/$(user)/export",
+            "selected": false
+        }
+    ],
+    "REPORT" : [
+        {
+            "id":"EDIT-COMPETENCES",
+            "link":"EDIT-COMPETENCES",
+            "url":"/competences/$(user)",
+            "selected": false
+        },
+        {
+            "id":"EDIT-PROFILE",
+            "link":"EDIT-PROFILE",
+            "url":"/profile/$(user)",
+            "selected": false
+        },
+        {
+            "id":"EXPORT-REPORT",
+            "link":"EXPORT-REPORT",
+            "url":"/report/$(user)/export",
+            "selected": false
+        }
+    ]
+}

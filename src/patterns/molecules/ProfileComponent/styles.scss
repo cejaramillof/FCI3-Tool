@@ -1,0 +1,28 @@
+@import "../../../globalStyles/variables";
+
+.profile-component {
+    margin-top: 0;
+    padding: 5px 5px 0 10px;
+    text-shadow: 0.03em 1px 0px #FFF;
+
+    h6 {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+        color:#229e22;
+    }
+
+    small {
+        display: block;
+    }
+
+    .stretched-link {
+        font-size: 80%;
+    }
+
+    .xsmall-icon {
+        width: 10px;
+    }
+
+    @include call-action();
+}

@@ -1,0 +1,31 @@
+@import "./../../../globalStyles/variables";
+
+.button-group-tag {
+    display: inline-block;
+
+    .btn {
+        margin: 2px;
+    }
+
+    .btn-outline-light {
+        border: 1px solid $color-gray-light;
+        color: $color-gray-dark;
+        background-color: $color-light;
+
+        &:hover {
+            background-color: $color-green-dark-rgba;
+            border: 1px solid $color-green-lightest;
+        }
+    }
+
+    .btn-outline-success {
+
+        &:not(:disabled):not(.disabled),
+        :not(:disabled):not(.disabled) {
+            &.active,
+            &:active {
+                background-color: $color-green-lightest;
+            }
+        }
+    }
+}

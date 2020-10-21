@@ -1,0 +1,26 @@
+{
+    "en": {
+        "SELECT-A-GLOBER": "Select a Glober",
+        "EDIT-PROFILE": "Edit Candidate's Profile",
+        "EDIT-COMPETENCES": "Edit competences",
+        "NEXT-COMPETENCE": "Next Competence",
+        "FINISH-REPORT": "Finish Report",
+        "EXPORT-REPORT": "Export Report",
+        "FOCUSED":"Focused",
+        "FASTLEARNER":"Fast Learner",
+        "FLEXIBLE":"Flexible",
+        "INTEGRITY":"Integrity",
+        "INNOVATIVE":"Innovative",
+        "INCLUSIVE":"Inclusive",
+        "COMMITED":"Commited",
+        "CLEARTHINKER":"Clear Thinker",
+        "COLLABORATIVE":"Collaborative",
+        "LEADERSHIP":"Leadership",
+        "Select a behavior for": "Select a behavior for",
+        "Baja priorización":"Low priorization",
+        "Identifies priorities and stays focused on them to achieve results and create value":"Identifies priorities and stays focused on them to achieve results and create value.",
+        "Your are selected":"Your are selected",
+        "behavior for":"behavior for",
+        "Please be sure that you are choosing the tags accordingly to your candidate profile":"Please be sure that you are choosing the tags accordingly to your candidate profile."
+    }
+}

@@ -1,0 +1,29 @@
+.footer-component {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    font-size: 12px;
+
+    background: black;
+    color: white;
+    padding: 8px;
+
+    &--wrapper {
+        max-width: 1260px;
+        margin-left: auto;
+        margin-right: auto;
+
+        .wrapper-text {
+            text-align: left;
+        }
+
+        .wrapper-logo {
+            text-align: right;
+            &--image{
+                height: 15px;
+            }
+        }
+    }
+}

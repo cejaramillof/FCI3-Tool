@@ -1,0 +1,28 @@
+@mixin call-action(){
+    .btn-call-action {
+        color: #606061;
+        background-color: #FFF;
+        border: 2px solid #FFF;
+        font-size: 14px;
+        text-transform: uppercase;
+        margin-left: 10px;
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+
+        &__cancel {
+            background-color: white;
+            border: 1px solid #dee0e3;
+            color: #606061;
+        }
+    }
+
+    .btn-call-action-sm {
+        font-size: 12px;
+    }
+
+    .btn-call-action:hover {
+        color: #FFF;
+        background: #32d15e;
+        border: 2px solid rgba(164, 238, 100, 0.781);
+        box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+    }
+}

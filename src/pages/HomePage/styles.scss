@@ -1,0 +1,31 @@
+@import "./../../globalStyles/variables";
+
+.home-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100% - 100px);
+
+    &__candidate {
+        background: white;
+        border-radius: 5px;
+        border: 1px solid #dee0e3;
+        background: #fff;
+        padding: 20px 15px;
+
+        .candidate-component {
+            padding: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 0;
+        }
+
+        .btn-outline-secondary {
+            border-color: #ced4da;
+            background-image: $green-gradient;
+            color: white;
+            text-shadow: -1px -1px 1px #3AC964;
+        }
+    }
+}

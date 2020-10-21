@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ramiro Gómez",
+        "email": "rfgo40@gmail.com",
+        "technology": "Java Developer",
+        "location": "Bogotá - Colombia"
+
+    },
+    {
+        "name": "Nicolas Ramirez",
+        "email": "nicolas.ramirez@gmail.com",
+        "technology": "Web UI Developer",
+        "location": "Bogotá - Colombia"
+    },
+    {
+        "name": "Sarah Bibiana Gomez",
+        "email": "sarah.gomez@gmail.com",
+        "technology": "Business Analist",
+        "location": "Bogotá - Colombia"
+    },
+    {
+        "name": "María Sofia Gomez",
+        "email": "maria.gomez@gmail.com",
+        "technology": "Business Analist",
+        "location": "Bogotá - Colombia"
+    }
+]

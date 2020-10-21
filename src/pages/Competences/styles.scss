@@ -1,0 +1,47 @@
+@import "./../../globalStyles/variables";
+
+.wrapper-app-component {
+    max-width: 1260px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+
+    .container {
+        &__wrapper {
+            &-content{
+                padding-top: 8px;
+            }
+
+            .wrapper-content {
+
+                &--candidate,
+                &--select-tags,
+                &--report-summary,
+                &--call-action {
+                    border-radius: 5px;
+                    margin-bottom: 10px;
+                    border: 1px solid #dee0e3;
+                    background: #fff;
+                    padding: 20px 15px;
+                    position: relative;
+                }
+
+                &--report-summary {
+                    border-bottom-left-radius: 0;
+                    border-bottom-right-radius: 0;
+                }
+
+                &--call-action {
+                    margin-top: -11px;
+                    border-top-left-radius: 0;
+                    border-top-right-radius: 0;
+                    text-align: right;
+                    background-image: linear-gradient(180deg, #F4F4F4 1%, #FCFCFC 45%);
+
+
+                    @include call-action();
+                }
+            }
+        } 
+    }
+}

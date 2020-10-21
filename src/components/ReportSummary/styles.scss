@@ -1,0 +1,37 @@
+.report-summary-component {
+
+    .card-header{
+        &--message {
+            text-shadow: 0.03em 1px 0px #FFF;
+
+            span {
+                display: inline-block;
+                vertical-align: middle;
+                text-shadow: none;
+            }
+            margin-bottom: 0;
+            line-height: 30px;
+            font-size: 14px;
+        }
+    }
+
+    .badge-success {
+        padding-right: 6px;
+        padding-left: 6px;
+        line-height: 15px;
+        margin: 0 2px;
+    }
+
+    .card-body {
+        font-size: 14px;
+        text-shadow: 0.03em 1px 0px #FFF;
+        text-align: justify;
+
+        .form-control{
+            border: none;
+            color: #7c8089;
+            font-size: 14px;
+            padding: 10px 20px;
+        }
+    }
+}

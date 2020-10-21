@@ -1,0 +1,8 @@
+{
+    "es" :{
+        "You are selected": "Tu has seleccionado",
+        "You must select a tag in the behavior section":"Deberías al menos seleccionar un comportamineto.",
+        "Please select almost one behavior tag to update your evaluation":"Porfavor, selecciona al menos un comportamineto para actualizar la evaluación.",
+        "Please be sure that you are choosing the tags accordingly to your candidate profile":"Porfavor, asegurese que esta seleccionando las etiquetas de acuerdo al perfil de su candidato."
+    }
+}

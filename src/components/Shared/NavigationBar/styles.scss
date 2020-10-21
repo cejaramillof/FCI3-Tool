@@ -1,0 +1,23 @@
+@import "./../../../globalStyles/variables";
+
+.navigation_bar_component {
+    background-image: $black-gradient;
+
+    .language-selector {
+        margin-left: 10px;
+    }
+
+    &__nav {
+        background-image: $black-gradient;
+        max-width: 1260px;
+
+        .navbar-brand {
+            padding-left: 30px;
+        }
+    }
+
+    &__logo {
+        max-height: 20px;
+    }
+
+}

@@ -1,0 +1,21 @@
+{
+    "user": {
+        "personalData":{
+            "username": "r.gomez",
+            "email": "r.gomez@gmail.com",
+            "fullname": "Ramiro Fernando Gómez Ortiz",
+            "firstname": "Ramiro Fernando",
+            "lastname": "Gómez Ortiz"
+        },
+        "applyData": {
+            "candidateId" : "09589838248684-2",
+            "position":"Web UI Developer",
+            "location": "Bogota - Colombia"
+        }
+    },
+    "recruiter": {
+        "username": "gina.ocampo",
+        "email": "gina.ocampo@globant.com",
+        "fullname": "Gina Vanessa Ocampo Guisao"
+    }
+}

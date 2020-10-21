@@ -1,0 +1,24 @@
+{
+    "es": {
+        "SELECT-A-GLOBER": "Seleccione un Glober",
+        "EDIT-PROFILE": "Editar Perfil Candidato",
+        "EDIT-COMPETENCES": "Editar competencias",
+        "NEXT-COMPETENCE": "Siguiente Competencia",
+        "FINISH-REPORT": "Finalizar Reporte",
+        "EXPORT-REPORT": "Exportar Reporte",
+        "FOCUSED": "Focused",
+        "FASTLEARNER": "Fast Learner",
+        "FLEXIBLE": "Flexible",
+        "INTEGRITY": "Integrity",
+        "INNOVATIVE": "Innovative",
+        "INCLUSIVE": "Inclusive",
+        "COMMITED": "Commited",
+        "CLEARTHINKER": "Clear Thinker",
+        "COLLABORATIVE": "Collaborative",
+        "LEADERSHIP": "Leadership",
+        "Baja priorización": "Baja priorización",
+        "Select a behavior for": "Seleccione un comportamiento para",
+        "Identifies priorities and stays focused on them to achieve results and create value": "Identificar prioridades y concentrarnos en las mismas, para obtener resultados y crear valor.",
+        "behavior for": "comportamiento(s) para"
+    }
+}

@@ -1,0 +1,10 @@
+.ringlete-loader {
+  background-repeat: no-repeat;
+  min-height: 64px;
+  background-image: url('Ringlete.svg');
+  min-width: 64px;
+
+  > * {
+    display: none;
+  }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "username": "r.gomez",
+        "password": "12345678",
+        "profile": "admin"
+    },
+    {
+        "username": "gina.ocampo",
+        "password": "12345678",
+        "profile": "recruiter"
+    },
+    {
+        "username": "gabo",
+        "password": "12345678",
+        "profile": "admin"
+    }
+]

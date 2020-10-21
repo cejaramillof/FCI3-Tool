@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+
+  &-container {
+    margin-bottom: 50px;
+    height: calc(100%);
+  }
+
+  label {
+    color: #18181a;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+
+  .full-banner {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+
+  small {
+    font-weight: 300;
+  }
+
+  .rounded-full {
+    border-radius: 20px;
+  }
+}
+
+html,
+#root,
+.App {
+  height: calc(100%);
+}
+
+body {
+  height: 100%;
+  background: #f0f2f5;
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 44px;
+}

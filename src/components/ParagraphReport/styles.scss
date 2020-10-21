@@ -1,0 +1,30 @@
+.paragraph-report-component {
+
+    position: relative;
+    padding: 6px 8px 0;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    margin-bottom: 6px;
+
+    &:hover{
+        border: 1px solid rgb(223, 223, 223);
+    }
+
+    &:hover::before {
+        content: attr(data-info);
+        font-size: 8px;
+        background-color: rgb(196, 196, 196);
+        padding:1px 4px;
+        border-radius: 3px;
+        position: absolute;
+        left: 8px;
+        top: -8px;
+        border: 1px solid gary;
+    }
+
+    .paragraph-actions {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+}
